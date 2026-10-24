@@ -1,0 +1,9 @@
+{
+  "apiVersion": "reasonix.io/plugin/v2",
+  "name": "sepia-plain-kit",
+  "version": "1.0.0",
+  "description": "Sepia Plain — the Sepia Dusk warm grey-brown palette without wallpaper, light and dark.",
+  "contributes": {
+    "themes": ["sepia-plain/theme.json"]
+  }
+}
